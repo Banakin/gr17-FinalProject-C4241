@@ -1,6 +1,10 @@
 # MBTA Tracking App
-## Group 17 Final Project
+Ashley Fontaine
+Yi Hong Jiang
+Brendan Leu
+Utku Yakar
 
+## Group 17 Final Project
 ### Project expectations
   This app is a utility for folks who live within the Boston subway With this app, users can see the arrival times for various stops in the area, save the stops that they frequently use, see a map of the subway system, see line availability alerts, and access other useful information regarding their travel in Boston. 
   
