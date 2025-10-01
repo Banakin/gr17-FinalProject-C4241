@@ -1,8 +1,5 @@
 # MBTA Tracking App
-Ashley Fontaine
-Yi Hong Jiang
-Brendan Leu
-Utku Yakar
+Ashley Fontaine, Yi Hong Jiang, Brendan Leu, Utku Yakar
 
 ## Group 17 Final Project
 ### Project expectations
